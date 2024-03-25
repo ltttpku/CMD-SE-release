@@ -1,0 +1,2285 @@
+{
+    "board airplane": [
+        "The mouth is closed.",
+        "The eyes are gazing out the window.",
+        "The arms are resting comfortably on the armrest.",
+        "The hand is holding a boarding pass.",
+        "The legs are stretched out."
+    ],
+    "direct airplane": [
+        "The arms are extended and steady.",
+        "The hand is gripping the controls firmly."
+    ],
+    "exit airplane": [
+        "The legs are slightly stiff or numb."
+    ],
+    "fly airplane": [
+        "The arms are steadily maneuvering the aircraft.",
+        "The hand is firmly gripping the controls."
+    ],
+    "inspect airplane": [
+        "The eyes are alert and observant.",
+        "The hand is engaged and exploring."
+    ],
+    "load airplane": [
+        "The arms are stretching upward.",
+        "The hand is gripping tightly onto luggage or tickets.",
+        "The legs are stepping up into the aircraft or adjusting position in the seat."
+    ],
+    "ride airplane": [
+        "The mouth is closed and possibly covered.",
+        "The eyes are observing the surroundings and adjusting.",
+        "The arms are resting and possibly holding onto the seat or armrest.",
+        "The hand is holding onto objects, such.",
+        "The legs are positioned comfortably and possibly stretched out or crossed."
+    ],
+    "sit_on airplane": [
+        "The legs are bent at the knees and tucked under the seat."
+    ],
+    "wash airplane": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction airplane": [
+        "The mouth is closed and relaxed.",
+        "The eyes are focused and observant.",
+        "The arms are resting comfortably.",
+        "The hand is holding onto something or relaxed by their side.",
+        "The legs are seated or positioned comfortably."
+    ],
+    "carry bicycle": [
+        "The arms are extended and holding the bicycle handlebars.",
+        "The hand is gripping tightly onto the bicycle handlebars.",
+        "The legs are bent and pushing against the pedals."
+    ],
+    "hold bicycle": [
+        "The arms are extended and supporting the weight.",
+        "The hand is gripping the handlebar.",
+        "The legs are positioned on the pedal."
+    ],
+    "inspect bicycle": [
+        "The eyes are focused and observing the bicycle's features.",
+        "The arms are reaching out.",
+        "The hand is exploring the texture and grip of the bicycle's handlebars."
+    ],
+    "jump bicycle": [
+        "The legs are extended and engaged in pedaling motion."
+    ],
+    "hop_on bicycle": [
+        "The hand is gripping the handlebars.",
+        "The legs are engaged in pedaling motion."
+    ],
+    "park bicycle": [
+        "The hand is gripping the handlebars.",
+        "The legs are resting on the ground."
+    ],
+    "push bicycle": [
+        "The arms are extended and grasping the handlebars.",
+        "The hand is gripping the handlebar firmly.",
+        "The legs are pedaling in a continuous motion."
+    ],
+    "repair bicycle": [
+        "The arms are flexing and extending.",
+        "The hand is gripping the handlebars tightly.",
+        "The legs are pushing down on the pedals with strength and rhythm."
+    ],
+    "ride bicycle": [
+        "The arms are extended and gripping the handlebars.",
+        "The hand is firmly holding onto the handlebar grips.",
+        "The legs are pedaling in a rhythmic motion."
+    ],
+    "sit_on bicycle": [
+        "The legs are flexed and pedaling."
+    ],
+    "straddle bicycle": [
+        "The hand is gripping the handlebars firmly.",
+        "The legs are bent and positioned on the pedal."
+    ],
+    "walk bicycle": [
+        "The hand is holding the handlebars.",
+        "The legs are in motion."
+    ],
+    "wash bicycle": [
+        "The arms are holding onto the bicycle.",
+        "The hand is wet and soapy."
+    ],
+    "no_interaction bicycle": [
+        "The hand is gripping the handlebars tightly.",
+        "The legs are pedaling rhythmically."
+    ],
+    "chase bird": [
+        "The arms are extended and reaching out.",
+        "The hand is open and grasping.",
+        "The legs are running and propelling forward."
+    ],
+    "feed bird": [
+        "The mouth is open and ready.",
+        "The hand is extended with seeds or crumbs."
+    ],
+    "hold bird": [
+        "The hand is gently cradling."
+    ],
+    "pet bird": [
+        "The hand is touching and gentle."
+    ],
+    "release bird": [
+        "The arms are raised and extended.",
+        "The hand is open and extended."
+    ],
+    "watch bird": [
+        "The eyes are focused and attentive."
+    ],
+    "no_interaction bird": [
+        "The mouth is closed in anticipation.",
+        "The eyes are focused and tracking.",
+        "The hand is steady and ready."
+    ],
+    "board boat": [
+        "The hand is ready.",
+        "The legs are steady and balanced."
+    ],
+    "drive boat": [
+        "The arms are steadily maneuvering the boat's controls.",
+        "The hand is gripping the steering wheel tightly."
+    ],
+    "exit boat": [
+        "The legs are wet and dripping water."
+    ],
+    "inspect boat": [
+        "The eyes are dilated and observant.",
+        "The hand is curious and exploratory."
+    ],
+    "jump boat": [
+        "The legs are extended in mid-air."
+    ],
+    "launch boat": [
+        "The arms are extending and pulling the oars through the water.",
+        "The hand is gripping the oars tightly.",
+        "The legs are stabilizing the body."
+    ],
+    "repair boat": [
+        "The hand is calloused and gripping tightly."
+    ],
+    "ride boat": [
+        "The arms are balancing out.",
+        "The hand is gripping the side of the boat.",
+        "The legs are stabilizing the body against the boat's movement."
+    ],
+    "row boat": [
+        "The arms are engaged in pulling the oar.",
+        "The hand is gripping the oar handle firmly.",
+        "The legs are providing stability and balance in the boat."
+    ],
+    "sail boat": [
+        "The hand is firmly gripping the boat's steering wheel."
+    ],
+    "sit_on boat": [
+        "The legs are bent and supported."
+    ],
+    "stand_on boat": [
+        "The legs are unsteady."
+    ],
+    "tie boat": [
+        "The arms are extended and reaching out.",
+        "The hand is gripping tightly."
+    ],
+    "wash boat": [
+        "The arms are reaching and scrubbing.",
+        "The hand is wet and soapy."
+    ],
+    "no_interaction boat": [
+        "The arms are pulling the oar through the water with strength and determination.",
+        "The hand is gripping the oar tightly."
+    ],
+    "carry bottle": [
+        "The arms are bent at the elbow.",
+        "The hand is gripping the bottle firmly."
+    ],
+    "drink_with bottle": [
+        "The mouth is open and ready.",
+        "The hand is gripping the bottle securely."
+    ],
+    "hold bottle": [
+        "The hand is gripping the bottle tightly."
+    ],
+    "inspect bottle": [
+        "The eyes are focused and observing.",
+        "The hand is gripping and exploring."
+    ],
+    "lick bottle": [
+        "The mouth is wet and tasting the bottle.",
+        "The hand is dry and gripping the bottle."
+    ],
+    "open bottle": [
+        "The hand is gripping the bottle tightly."
+    ],
+    "pour bottle": [
+        "The hand is open and ready."
+    ],
+    "no_interaction bottle": [
+        "The hand is gripping the bottle."
+    ],
+    "board bus": [
+        "The arms are resting by their side.",
+        "The hand is holding a bus ticket or grasping a handrail.",
+        "The legs are standing or sitting."
+    ],
+    "direct bus": [
+        "The arms are extended and steady.",
+        "The hand is firmly grasping the gearshift or steering wheel."
+    ],
+    "drive bus": [
+        "The arms are firmly holding onto the gear shift.",
+        "The hand is gripping the steering wheel.",
+        "The legs are pressing down on the accelerator or brake pedals."
+    ],
+    "exit bus": [
+        "The legs are stepping off the bus."
+    ],
+    "inspect bus": [
+        "The eyes are observing the bus.",
+        "The hand is touching the bus."
+    ],
+    "load bus": [
+        "The arms are supporting the weight of a bag.",
+        "The hand is holding onto the bus handle.",
+        "The legs are stepping onto the bus."
+    ],
+    "ride bus": [
+        "The eyes are alert and observant.",
+        "The arms are holding onto a rail or seat.",
+        "The hand is gripping the handle or holding a ticket.",
+        "The legs are resting or positioned."
+    ],
+    "sit_on bus": [
+        "The legs are bent at the knee."
+    ],
+    "wash bus": [
+        "The hand is wet and soapy."
+    ],
+    "wave bus": [
+        "The arms are extended and raised.",
+        "The hand is open and waving."
+    ],
+    "no_interaction bus": [
+        "The mouth is closed.",
+        "The arms are relaxed.",
+        "The hand is empty.",
+        "The legs are stationary."
+    ],
+    "board car": [
+        "The hand is \"gripping the steering wheel or holding onto a handle.\".",
+        "The legs are \"bent and positioned inside the car.\"."
+    ],
+    "direct car": [
+        "The eyes are focused on the road ahead.",
+        "The arms are holding the gear shift or resting on the armrest.",
+        "The hand is gripping the steering wheel.",
+        "The legs are pressing on the accelerator or brake pedal."
+    ],
+    "drive car": [
+        "The mouth is closed and focused on breathing or speaking.",
+        "The arms are resting on the steering wheel or shifting gears.",
+        "The hand is firmly gripping the steering wheel.",
+        "The legs are engaged in operating the pedals."
+    ],
+    "hose car": [
+        "The arms are extended and engaged in steering and maneuvering the car.",
+        "The hand is gripping the steering wheel firmly."
+    ],
+    "inspect car": [
+        "The eyes are focused and observant.",
+        "The arms are reaching out and exploring.",
+        "The hand is touching and examining."
+    ],
+    "jump car": [
+        "The legs are extended and propelling."
+    ],
+    "load car": [
+        "The arms are extended and reaching.",
+        "The hand is gripping onto the car door or items.",
+        "The legs are bending and flexing."
+    ],
+    "park car": [
+        "The arms are extending.",
+        "The hand is gripping the steering wheel."
+    ],
+    "ride car": [
+        "The hand is gripping the steering wheel.",
+        "The legs are pressing on the accelerator or brake."
+    ],
+    "wash car": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction car": [
+        "The arms are resting on the armrest or holding onto the door handle.",
+        "The hand is gripping the steering wheel."
+    ],
+    "dry cat": [
+        "The hand is gripping the cat gently."
+    ],
+    "feed cat": [
+        "The mouth is opened wide to allow food.",
+        "The hand is extended to hold and offer food."
+    ],
+    "hold cat": [
+        "The arms are supporting the cat's weight.",
+        "The hand is gently cradling the cat."
+    ],
+    "hug cat": [
+        "The arms are embracing the feline companion. .",
+        "The hand is gentle caress on the furry friend."
+    ],
+    "kiss cat": [
+        "The mouth is engaged in a gentle press or touch against the cat."
+    ],
+    "pet cat": [
+        "The hand is gentle and caressing."
+    ],
+    "scratch cat": [
+        "The hand is touching the cat's fur."
+    ],
+    "wash cat": [
+        "The hand is wet and soapy from washing the cat."
+    ],
+    "chase cat": [
+        "The legs are in motion."
+    ],
+    "no_interaction cat": [
+        "The mouth is closed with a smile.",
+        "The hand is extended."
+    ],
+    "carry chair": [
+        "The arms are extended and supporting the weight of the chair.",
+        "The hand is firmly grasping the chair's frame or handle.",
+        "The legs are stable and providing balance."
+    ],
+    "hold chair": [
+        "The arms are bent at the elbow .",
+        "The hand is gripping the chair."
+    ],
+    "lie_on chair": [
+        "The legs are bent at the knee and dangling off the edge of the chair."
+    ],
+    "sit_on chair": [
+        "The legs are bent at the knee."
+    ],
+    "stand_on chair": [
+        "The legs are extended and supporting weight."
+    ],
+    "no_interaction chair": [
+        "The arms are resting comfortably on the armrest of the chair.",
+        "The hand is relaxed and loosely hanging by the side of the body.",
+        "The legs are bent at the knee and comfortably placed on the ground or footrest of the chair."
+    ],
+    "carry couch": [
+        "The arms are strained and extended.",
+        "The hand is firmly clasping the couch's edge.",
+        "The legs are supporting the weight."
+    ],
+    "lie_on couch": [
+        "The arms are relaxed and extended along the side of the body.",
+        "The hand is resting comfortably on the cushion or draped lazily over the edge.",
+        "The legs are stretched out or slightly bent."
+    ],
+    "sit_on couch": [
+        "The legs are bent at the knee and relaxed."
+    ],
+    "no_interaction couch": [
+        "The arms are resting comfortably on the armrest.",
+        "The hand is relaxed and loosely resting on the cushion.",
+        "The legs are extended and comfortably supported on the couch."
+    ],
+    "feed cow": [
+        "The mouth is open.",
+        "The hand is extending."
+    ],
+    "herd cow": [
+        "The mouth is opened slightly in surprise or awe.",
+        "The hand is raised towards the ear."
+    ],
+    "hold cow": [
+        "The hand is gripping firmly."
+    ],
+    "hug cow": [
+        "The arms are extended and wrapped around the cow's body.",
+        "The hand is clasping onto the cow's side or shoulder."
+    ],
+    "kiss cow": [
+        "The mouth is engaged in kissing action."
+    ],
+    "lasso cow": [
+        "The arms are extending and swinging the lasso in a circular motion.",
+        "The hand is gripping tightly around the lasso's handle."
+    ],
+    "milk cow": [
+        "The hand is engaged in milking motion."
+    ],
+    "pet cow": [
+        "The hand is touching the cow."
+    ],
+    "ride cow": [
+        "The legs are bent and gripping."
+    ],
+    "walk cow": [
+        "The legs are in motion."
+    ],
+    "no_interaction cow": [
+        "The mouth is closed and inactive.",
+        "The hand is idle and not engaged."
+    ],
+    "clean dining table": [
+        "The hand is wet and soapy."
+    ],
+    "eat_at dining table": [
+        "The mouth is open and ready.",
+        "The hand is holding cutlery or utensils."
+    ],
+    "sit_at dining table": [
+        "The mouth is open.",
+        "The arms are resting on the table.",
+        "The hand is holding utensils or reaching."
+    ],
+    "no_interaction dining table": [
+        "The mouth is closed.",
+        "The arms are resting.",
+        "The hand is idle."
+    ],
+    "carry dog": [
+        "The arms are supporting the weight of the dog.",
+        "The hand is gripping the dog securely."
+    ],
+    "dry dog": [
+        "The hand is wet from the dog's fur."
+    ],
+    "feed dog": [
+        "The mouth is opened.",
+        "The hand is extended."
+    ],
+    "groom dog": [
+        "The arms are extended and stable.",
+        "The hand is busy and gentle."
+    ],
+    "hold dog": [
+        "The arms are flexed and extended.",
+        "The hand is gripping the dog gently."
+    ],
+    "hose dog": [
+        "The mouth is open in a friendly smile.",
+        "The arms are reaching out with affection.",
+        "The hand is gently petting and stroking.",
+        "The legs are steadily standing."
+    ],
+    "hug dog": [
+        "The arms are wrapped around dog's body.",
+        "The hand is gently holding onto dog's fur."
+    ],
+    "inspect dog": [
+        "The eyes are curious and observant.",
+        "The arms are extended and reaching out.",
+        "The hand is gentle and cautious."
+    ],
+    "kiss dog": [
+        "The mouth is in contact with dog's fur and potentially exchanging saliva."
+    ],
+    "pet dog": [
+        "The arms are relaxed and slightly bent.",
+        "The hand is open and extended."
+    ],
+    "run dog": [
+        "The legs are in motion."
+    ],
+    "scratch dog": [
+        "The hand is touching the dog's fur."
+    ],
+    "straddle dog": [
+        "The legs are extended and straddling."
+    ],
+    "train dog": [
+        "The mouth is open and ready.",
+        "The arms are extended.",
+        "The hand is holding treats or rewards.",
+        "The legs are steady and engaged."
+    ],
+    "walk dog": [
+        "The legs are in motion."
+    ],
+    "wash dog": [
+        "The hand is wet and soapy."
+    ],
+    "chase dog": [
+        "The legs are in motion."
+    ],
+    "no_interaction dog": [
+        "The mouth is closed in a relaxed position.",
+        "The hand is extended outward.",
+        "The legs are stationary or in motion."
+    ],
+    "feed horse": [
+        "The mouth is open.",
+        "The arms are extended.",
+        "The hand is holding out food."
+    ],
+    "groom horse": [
+        "The arms are extending and flexing.",
+        "The hand is gripping the brush firmly."
+    ],
+    "hold horse": [
+        "The arms are stretched out and wrapped around the horse's neck.",
+        "The hand is firmly gripping the horse's reins.",
+        "The legs are securely pressed against the horse's side."
+    ],
+    "hug horse": [
+        "The arms are extended outward.",
+        "The hand is grasping onto the horse's mane or gently holding its muzzle.",
+        "The legs are positioned alongside the horse's body."
+    ],
+    "jump horse": [
+        "The arms are firmly gripping the reins with a slight bend.",
+        "The hand is steady and in control.",
+        "The legs are extended and wrapped around the horse's body."
+    ],
+    "kiss horse": [
+        "The mouth is engaged in kissing a horse."
+    ],
+    "load horse": [
+        "The arms are supporting the rider's weight on the saddle.",
+        "The hand is grasping the reins firmly.",
+        "The legs are pressing against the horse's side."
+    ],
+    "hop_on horse": [
+        "The legs are engaged and gripping the horse's sides."
+    ],
+    "pet horse": [
+        "The hand is touching and stroking the horse."
+    ],
+    "race horse": [
+        "The hand is gripping the reins tightly.",
+        "The legs are firmly secured in the stirrup."
+    ],
+    "ride horse": [
+        "The hand is holding the reins.",
+        "The legs are gripping the saddle."
+    ],
+    "run horse": [
+        "The eyes are focused and alert.",
+        "The arms are firmly gripping the reins.",
+        "The hand is tightly gripping the reins.",
+        "The legs are rapidly propelling forward in a rhythmic motion."
+    ],
+    "straddle horse": [
+        "The legs are bent and gripping the horse's sides."
+    ],
+    "train horse": [
+        "The mouth is engaged in communication and control.",
+        "The arms are extended.",
+        "The hand is holding reins with gentle yet firm grip.",
+        "The legs are resting against the horse's side."
+    ],
+    "walk horse": [
+        "The legs are in motion."
+    ],
+    "wash horse": [
+        "The arms are reaching and rinsing.",
+        "The hand is wet and soapy."
+    ],
+    "no_interaction horse": [
+        "The mouth is closed in a neutral position.",
+        "The eyes are observing the horse with attention.",
+        "The arms are resting by the person's side.",
+        "The hand is calmly hanging down."
+    ],
+    "hold motorcycle": [
+        "The arms are extended and supporting.",
+        "The hand is gripping tightly."
+    ],
+    "inspect motorcycle": [
+        "The eyes are focused and observant.",
+        "The hand is touching and examining."
+    ],
+    "jump motorcycle": [
+        "The arms are firmly gripping the handlebars.",
+        "The hand is steady and ready.",
+        "The legs are extended and braced."
+    ],
+    "hop_on motorcycle": [
+        "The hand is gripping the motorcycle's handlebars firmly.",
+        "The legs are bent and positioned on the motorcycle's footrest."
+    ],
+    "park motorcycle": [
+        "The hand is gripping the handlebar tightly.",
+        "The legs are resting on the ground."
+    ],
+    "push motorcycle": [
+        "The arms are flexed and extended.",
+        "The hand is firmly grasping the handlebars.",
+        "The legs are engaged and pushing against the ground or footrest."
+    ],
+    "race motorcycle": [
+        "The arms are gripping the handlebars tightly.",
+        "The hand is controlling the throttle and clutch.",
+        "The legs are balancing and bracing against the motorcycle."
+    ],
+    "ride motorcycle": [
+        "The hand is gripping the handlebars tightly.",
+        "The legs are bent and positioned."
+    ],
+    "sit_on motorcycle": [
+        "The legs are bent and resting on the footpeg."
+    ],
+    "straddle motorcycle": [
+        "The legs are bent and extended."
+    ],
+    "turn motorcycle": [
+        "The arms are bending and extending.",
+        "The hand is gripping the handlebars tightly.",
+        "The legs are balancing and shifting weight."
+    ],
+    "walk motorcycle": [
+        "The legs are active and engaged."
+    ],
+    "wash motorcycle": [
+        "The arms are reaching and scrubbing.",
+        "The hand is wet and soapy."
+    ],
+    "no_interaction motorcycle": [
+        "The arms are extended and bracing against the wind.",
+        "The hand is gripping the handlebars tightly.",
+        "The legs are bent and firmly planted on the footrest."
+    ],
+    "carry person": [
+        "The arms are extended and supporting weight.",
+        "The hand is gripping firmly."
+    ],
+    "greet person": [
+        "The mouth is opened with a smile.",
+        "The hand is outstretched."
+    ],
+    "hold person": [
+        "The arms are engaged in a gentle embrace.",
+        "The hand is clasping onto another with tenderness.",
+        "The legs are wrapped around."
+    ],
+    "hug person": [
+        "The arms are embracing the other person with warmth and affection.",
+        "The hand is reaching out, intertwining fingers."
+    ],
+    "kiss person": [
+        "The mouth is engaged in a passionate connection."
+    ],
+    "stab person": [
+        "The arms are penetrated by the stabbing motion.",
+        "The hand is potentially injured or wounded due."
+    ],
+    "tag person": [
+        "The mouth is open or closed."
+    ],
+    "teach person": [
+        "The mouth is opened.",
+        "The eyes are focused and attentive.",
+        "The arms are raised or extended.",
+        "The hand is taking notes or holding learning materials."
+    ],
+    "lick person": [
+        "The mouth is engaged in oral contact.",
+        "The hand is participating in physical interaction."
+    ],
+    "no_interaction person": [
+        "The mouth is closed and silent.",
+        "The eyes are unfocused and still.",
+        "The arms are resting by the side.",
+        "The hand is motionless and at rest."
+    ],
+    "carry potted plant": [
+        "The arms are extended and stretched out.",
+        "The hand is gripping and supporting."
+    ],
+    "hold potted plant": [
+        "The arms are extended and holding.",
+        "The hand is gripping and supporting."
+    ],
+    "hose potted plant": [
+        "The arms are extended and supporting the weight of the potted plant.",
+        "The hand is gripping tightly around the potted plant."
+    ],
+    "no_interaction potted plant": [
+        "The mouth is closed and silent.",
+        "The hand is idle and stationary."
+    ],
+    "carry sheep": [
+        "The arms are extended and flexed.",
+        "The hand is firmly gripping the sheep's body."
+    ],
+    "feed sheep": [
+        "The mouth is open and ready.",
+        "The hand is extended."
+    ],
+    "herd sheep": [
+        "The mouth is open wide in surprise or awe.",
+        "The hand is raised.",
+        "The legs are stepping forward."
+    ],
+    "hold sheep": [
+        "The arms are supporting the weight of the sheep.",
+        "The hand is grasping the sheep gently."
+    ],
+    "hug sheep": [
+        "The arms are embracing .",
+        "The hand is grasping."
+    ],
+    "kiss sheep": [
+        "The mouth is pressed against sheep's wool."
+    ],
+    "pet sheep": [
+        "The hand is touching the sheep's soft wool."
+    ],
+    "ride sheep": [
+        "The legs are bent and gripping tightly."
+    ],
+    "shear sheep": [
+        "The arms are extended and holding the shears steady.",
+        "The hand is gripping the shears.",
+        "The legs are firmly planted on the ground."
+    ],
+    "walk sheep": [
+        "The legs are supporting weight and propelling forward."
+    ],
+    "wash sheep": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction sheep": [
+        "The mouth is closed.",
+        "The arms are extended.",
+        "The hand is uninvolved."
+    ],
+    "board train": [
+        "The hand is gripping onto the train's handrail.",
+        "The legs are stepping onto the train's platform."
+    ],
+    "drive train": [
+        "The arms are steadily controlling the train's speed and direction.",
+        "The hand is gripping the throttle firmly.",
+        "The legs are operating the pedals with precision and coordination."
+    ],
+    "exit train": [
+        "The hand is loosely gripping onto personal belongings.",
+        "The legs are steady and supporting the body's weight."
+    ],
+    "load train": [
+        "The arms are extended and reaching out.",
+        "The hand is gripping firmly onto the handrail or objects.",
+        "The legs are standing upright."
+    ],
+    "ride train": [
+        "The arms are resting on the armrest.",
+        "The hand is holding onto the grab handle.",
+        "The legs are crossed or stretched out under the seat."
+    ],
+    "sit_on train": [
+        "The legs are bent at the knee."
+    ],
+    "wash train": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction train": [
+        "The hand is gripping the handrail tightly.",
+        "The legs are steadily planted on the train floor."
+    ],
+    "control tv": [
+        "The hand is grasping the remote."
+    ],
+    "repair tv": [
+        "The hand is steady and nimble."
+    ],
+    "watch tv": [
+        "The eyes are focused and engaged.",
+        "The hand is resting or holding a remote control."
+    ],
+    "no_interaction tv": [
+        "The arms are extended and relaxed.",
+        "The hand is resting comfortably on the armrest of the sofa."
+    ],
+    "buy apple": [
+        "The mouth is opened wide in anticipation.",
+        "The hand is reaching out."
+    ],
+    "cut apple": [
+        "The mouth is opened wide.",
+        "The hand is gripping the knife."
+    ],
+    "eat apple": [
+        "The mouth is open and ready.",
+        "The hand is holding the apple firmly."
+    ],
+    "hold apple": [
+        "The hand is gripping the apple."
+    ],
+    "inspect apple": [
+        "The mouth is opened wide in anticipation.",
+        "The eyes are focused intently on the apple.",
+        "The hand is extended towards the apple."
+    ],
+    "peel apple": [
+        "The eyes are watching the apple's skin being removed.",
+        "The hand is active and gripping the apple."
+    ],
+    "pick apple": [
+        "The hand is gripping the apple."
+    ],
+    "smell apple": [],
+    "wash apple": [
+        "The arms are extended and holding the apple.",
+        "The hand is wet and soapy."
+    ],
+    "no_interaction apple": [
+        "The mouth is opened wide.",
+        "The hand is gripping the apple firmly."
+    ],
+    "carry backpack": [
+        "The arms are bent and positioned at an angle.",
+        "The hand is grasping the backpack handle or adjusting the straps.",
+        "The legs are maintaining balance and supporting the weight of the backpack."
+    ],
+    "hold backpack": [
+        "The arms are extended and supporting the weight of the backpack.",
+        "The hand is gripping the straps of the backpack tightly."
+    ],
+    "inspect backpack": [
+        "The hand is holding the backpack."
+    ],
+    "open backpack": [
+        "The hand is extended and reaching towards the backpack."
+    ],
+    "wear backpack": [
+        "The arms are bent at the elbow.",
+        "The hand is gripping the backpack straps firmly.",
+        "The legs are stepping and balancing with the additional weight of the backpack."
+    ],
+    "no_interaction backpack": [
+        "The arms are supporting the weight of the backpack.",
+        "The hand is grasping the backpack."
+    ],
+    "buy banana": [
+        "The mouth is ready.",
+        "The arms are extending.",
+        "The hand is holding the banana."
+    ],
+    "carry banana": [
+        "The arms are raised.",
+        "The hand is gripping the banana."
+    ],
+    "cut banana": [
+        "The hand is holding the banana."
+    ],
+    "eat banana": [
+        "The mouth is open and ready."
+    ],
+    "hold banana": [
+        "The hand is gripping the banana."
+    ],
+    "inspect banana": [
+        "The eyes are focused and attentive.",
+        "The hand is gripping and tactile."
+    ],
+    "peel banana": [
+        "The arms are extending towards the banana.",
+        "The hand is holding the banana."
+    ],
+    "pick banana": [
+        "The hand is gripping the banana."
+    ],
+    "smell banana": [
+        "The mouth is closed in anticipation."
+    ],
+    "no_interaction banana": [
+        "The mouth is opened wide.",
+        "The hand is holding the banana firmly."
+    ],
+    "break baseball bat": [
+        "The arms are fractured or broken.",
+        "The hand is injured or fractured."
+    ],
+    "carry baseball bat": [
+        "The arms are flexed and extended.",
+        "The hand is gripped firmly around the baseball."
+    ],
+    "hold baseball bat": [
+        "The hand is gripping the baseball."
+    ],
+    "sign baseball bat": [
+        "The hand is gripping the baseball tightly."
+    ],
+    "swing baseball bat": [
+        "The arms are extended and rotating.",
+        "The hand is gripping and releasing."
+    ],
+    "throw baseball bat": [
+        "The arms are extended and rotating.",
+        "The hand is gripping and releasing."
+    ],
+    "wield baseball bat": [
+        "The arms are extended and positioned.",
+        "The hand is gripping firmly around the baseball."
+    ],
+    "no_interaction baseball bat": [
+        "The arms are extended.",
+        "The hand is gripped tightly around the baseball."
+    ],
+    "hold baseball glove": [
+        "The hand is gripping the baseball."
+    ],
+    "wear baseball glove": [
+        "The arms are bent and relaxed.",
+        "The hand is gripping the baseball tightly.",
+        "The legs are positioned."
+    ],
+    "no_interaction baseball glove": [
+        "The arms are extended and ready.",
+        "The hand is gripping the baseball tightly."
+    ],
+    "feed bear": [
+        "The mouth is open in anticipation.",
+        "The arms are extended cautiously.",
+        "The hand is offering food cautiously.",
+        "The legs are ready."
+    ],
+    "hunt bear": [
+        "The arms are tense and ready.",
+        "The hand is firmly gripping the weapon or tool.",
+        "The legs are steadily planted."
+    ],
+    "watch bear": [
+        "The eyes are dilated and focused."
+    ],
+    "no_interaction bear": [
+        "The mouth is open in fear or screaming.",
+        "The arms are raised in defense or trying.",
+        "The hand is clenched tightly or reaching out.",
+        "The legs are running or trembling in fear."
+    ],
+    "clean bed": [
+        "The hand is wet and soapy."
+    ],
+    "lie_on bed": [],
+    "sit_on bed": [
+        "The hand is resting on the bed.",
+        "The legs are bent at the knee."
+    ],
+    "no_interaction bed": [
+        "The mouth is closed and relaxed."
+    ],
+    "inspect bench": [
+        "The eyes are wide open and focused.",
+        "The hand is touching and feeling."
+    ],
+    "lie_on bench": [
+        "The arms are resting by their side.",
+        "The hand is hanging off the edge.",
+        "The legs are extended or dangling off the bench."
+    ],
+    "sit_on bench": [
+        "The legs are bent at the knee."
+    ],
+    "no_interaction bench": [
+        "The arms are resting comfortably on the bench.",
+        "The hand is lying relaxed on the surface of the bench.",
+        "The legs are extended."
+    ],
+    "carry book": [
+        "The arms are bent at the elbow and supporting weight.",
+        "The hand is gripping the book tightly."
+    ],
+    "hold book": [
+        "The hand is gripping the book."
+    ],
+    "open book": [
+        "The hand is extended and ready."
+    ],
+    "read book": [
+        "The eyes are focused and attentive .",
+        "The hand is holding the book."
+    ],
+    "no_interaction book": [
+        "The mouth is closed and silent.",
+        "The eyes are focused and scanning.",
+        "The hand is resting or holding the book."
+    ],
+    "hold bowl": [
+        "The hand is gripping the bowl."
+    ],
+    "stir bowl": [
+        "The arms are extended and engaged in movement.",
+        "The hand is gripping and manipulating the spoon."
+    ],
+    "wash bowl": [
+        "The hand is wet and soapy."
+    ],
+    "lick bowl": [
+        "The mouth is wet and tasting."
+    ],
+    "no_interaction bowl": [
+        "The hand is extended and open."
+    ],
+    "cut broccoli": [
+        "The arms are reaching out.",
+        "The hand is holding the broccoli firmly."
+    ],
+    "eat broccoli": [
+        "The mouth is chewing and tasting the broccoli."
+    ],
+    "hold broccoli": [
+        "The hand is gripping the broccoli."
+    ],
+    "smell broccoli": [
+        "The mouth is salivating."
+    ],
+    "stir broccoli": [
+        "The hand is grasping the broccoli."
+    ],
+    "wash broccoli": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction broccoli": [
+        "The mouth is opened wide in anticipation."
+    ],
+    "blow cake": [
+        "The mouth is pursed lips and blowing air."
+    ],
+    "carry cake": [
+        "The arms are extended and flexed slightly.",
+        "The hand is gripping the cake firmly but gently."
+    ],
+    "cut cake": [
+        "The arms are guiding the knife's motion.",
+        "The hand is holding the knife."
+    ],
+    "eat cake": [
+        "The mouth is open and salivating."
+    ],
+    "hold cake": [
+        "The hand is gripping the cake securely."
+    ],
+    "light cake": [
+        "The hand is reaching out."
+    ],
+    "make cake": [
+        "The mouth is talking and salivating in anticipation of tasting the cake.",
+        "The arms are stirring the batter with a whisk.",
+        "The hand is holding the mixing bowl steady."
+    ],
+    "pick_up cake": [
+        "The hand is gripping the cake."
+    ],
+    "no_interaction cake": [
+        "The mouth is open and ready.",
+        "The hand is reaching out eagerly."
+    ],
+    "carry carrot": [
+        "The hand is gripping the carrot firmly."
+    ],
+    "cook carrot": [
+        "The mouth is salivating eagerly.",
+        "The arms are holding the carrot firmly.",
+        "The hand is skillfully slicing the carrot."
+    ],
+    "cut carrot": [
+        "The hand is holding the knife."
+    ],
+    "eat carrot": [
+        "The mouth is opens wide.",
+        "The hand is holds carrot firmly."
+    ],
+    "hold carrot": [
+        "The mouth is ready.",
+        "The hand is gripping the carrot firmly."
+    ],
+    "peel carrot": [
+        "The eyes are monitoring the progress and ensuring precision.",
+        "The hand is gripping the carrot tightly."
+    ],
+    "smell carrot": [
+        "The mouth is opens slightly."
+    ],
+    "stir carrot": [
+        "The hand is gripping the carrot tightly."
+    ],
+    "wash carrot": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction carrot": [
+        "The mouth is opened and ready.",
+        "The hand is holding the carrot firmly."
+    ],
+    "carry cell phone": [
+        "The hand is gripping the cell."
+    ],
+    "hold cell phone": [
+        "The arms are extended and supporting the weight of the cell.",
+        "The hand is gripping tightly around the cell."
+    ],
+    "read cell phone": [
+        "The eyes are focused and scanning words.",
+        "The hand is holding the cell and scrolling through."
+    ],
+    "repair cell phone": [
+        "The hand is actively repairing cells."
+    ],
+    "talk_on cell phone": [
+        "The mouth is open and moving."
+    ],
+    "text_on cell phone": [
+        "The mouth is talking or moving.",
+        "The hand is typing or scrolling on the device."
+    ],
+    "no_interaction cell phone": [
+        "The mouth is closed and inactive.",
+        "The hand is idle and motionless."
+    ],
+    "check clock": [
+        "The eyes are focused and observant.",
+        "The hand is ready and poised."
+    ],
+    "hold clock": [
+        "The hand is gripping the clock."
+    ],
+    "repair clock": [
+        "The hand is steady and precise."
+    ],
+    "set clock": [
+        "The hand is steady and precise."
+    ],
+    "no_interaction clock": [
+        "The hand is stationary."
+    ],
+    "carry cup": [
+        "The hand is gripping the cup."
+    ],
+    "drink_with cup": [
+        "The mouth is open and ready.",
+        "The hand is gripping the cup securely."
+    ],
+    "hold cup": [
+        "The hand is gripping the cup."
+    ],
+    "inspect cup": [
+        "The eyes are focused and observant.",
+        "The hand is extended and reaching out."
+    ],
+    "pour cup": [
+        "The hand is holding the cup."
+    ],
+    "sip cup": [
+        "The mouth is opened slightly.",
+        "The arms are raised and bent at the elbow.",
+        "The hand is gripping the cup gently."
+    ],
+    "smell cup": [],
+    "fill cup": [
+        "The hand is grasping the cup."
+    ],
+    "wash cup": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction cup": [
+        "The hand is gripping the cup."
+    ],
+    "buy donut": [
+        "The mouth is salivating with anticipation.",
+        "The hand is reaching out eagerly."
+    ],
+    "carry donut": [
+        "The hand is holding a donut."
+    ],
+    "eat donut": [
+        "The mouth is opened wide.",
+        "The hand is gripping the donut."
+    ],
+    "hold donut": [
+        "The arms are bent at the elbow.",
+        "The hand is gripping the donut."
+    ],
+    "make donut": [
+        "The mouth is open wide.",
+        "The hand is twisting dough."
+    ],
+    "pick_up donut": [
+        "The hand is gripping the donut."
+    ],
+    "smell donut": [
+        "The mouth is opens with anticipation."
+    ],
+    "no_interaction donut": [
+        "The mouth is opened wide with anticipation. .",
+        "The hand is reaching out eagerly."
+    ],
+    "feed elephant": [
+        "The mouth is open wide in awe.",
+        "The hand is holding on."
+    ],
+    "hold elephant": [
+        "The arms are straining under the weight of the elephant's body. .",
+        "The hand is gripping firmly around the elephant's trunk. .",
+        "The legs are supporting the immense pressure of the elephant's weight."
+    ],
+    "hose elephant": [
+        "The arms are strained or pulled from the force.",
+        "The hand is slightly crushed or squished.",
+        "The legs are overwhelmed or knocked off balance."
+    ],
+    "hug elephant": [
+        "The arms are wrapping around the massive creature.",
+        "The hand is grasping onto the rough.",
+        "The legs are standing firm."
+    ],
+    "kiss elephant": [
+        "The mouth is pressed against the elephant's trunk."
+    ],
+    "hop_on elephant": [
+        "The legs are stretched and gripping."
+    ],
+    "pet elephant": [
+        "The hand is touching an elephant."
+    ],
+    "ride elephant": [
+        "The hand is holding onto the elephant's thick.",
+        "The legs are extended and gripping tightly around the elephant's body."
+    ],
+    "walk elephant": [
+        "The legs are engaged in weight-bearing locomotion."
+    ],
+    "wash elephant": [
+        "The arms are reaching and scrubbing.",
+        "The hand is wet and soapy."
+    ],
+    "watch elephant": [
+        "The eyes are wide-eyed with awe and wonder.",
+        "The hand is trembling with excitement and anticipation."
+    ],
+    "no_interaction elephant": [
+        "The mouth is closed tightly.",
+        "The hand is not touching."
+    ],
+    "hug fire hydrant": [
+        "The arms are exposed.",
+        "The hand is in contact with scorching flames.",
+        "The legs are close."
+    ],
+    "inspect fire hydrant": [
+        "The eyes are dilated with curiosity and awe.",
+        "The arms are raised cautiously.",
+        "The hand is tightly clenched in anticipation and readiness."
+    ],
+    "open fire hydrant": [
+        "The hand is charred and blistered."
+    ],
+    "paint fire hydrant": [
+        "The hand is covered in soot and ash."
+    ],
+    "no_interaction fire hydrant": [
+        "The mouth is opened wide in shock and gasping.",
+        "The arms are frantically waving or flailing .",
+        "The hand is clenching and desperately trying.",
+        "The legs are swiftly moving or stumbling in an urgent escape from the dangerous situation."
+    ],
+    "hold fork": [
+        "The hand is gripping the fork tightly."
+    ],
+    "lift fork": [
+        "The arms are raised and flexed.",
+        "The hand is grasping the fork."
+    ],
+    "stick fork": [
+        "The hand is grasping the fork."
+    ],
+    "lick fork": [
+        "The mouth is receptive."
+    ],
+    "wash fork": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction fork": [
+        "The mouth is unoccupied and closed.",
+        "The hand is empty and idle."
+    ],
+    "block frisbee": [
+        "The arms are extended and positioned.",
+        "The hand is firmly grasping the frisbee upon contact."
+    ],
+    "catch frisbee": [
+        "The hand is gripping the frisbee tightly."
+    ],
+    "hold frisbee": [
+        "The hand is gripping the frisbee."
+    ],
+    "spin frisbee": [
+        "The arms are extended and rotating.",
+        "The hand is gripping and releasing."
+    ],
+    "throw frisbee": [
+        "The arms are extended and in motion.",
+        "The hand is gripping the frisbee firmly."
+    ],
+    "no_interaction frisbee": [
+        "The arms are extended and ready.",
+        "The hand is open and prepared."
+    ],
+    "feed giraffe": [
+        "The mouth is open wide with anticipation.",
+        "The hand is reaching out with gentle caution."
+    ],
+    "kiss giraffe": [
+        "The mouth is engaged in a gentle connection. ."
+    ],
+    "pet giraffe": [
+        "The hand is touching the giraffe."
+    ],
+    "ride giraffe": [
+        "The legs are bent and wrapped around the giraffe's neck."
+    ],
+    "watch giraffe": [
+        "The eyes are focused and observant."
+    ],
+    "no_interaction giraffe": [
+        "The mouth is closed in anticipation. .",
+        "The eyes are wide open in awe."
+    ],
+    "hold hair drier": [
+        "The hand is gripping the hair."
+    ],
+    "operate hair drier": [
+        "The hand is gripping the hair."
+    ],
+    "repair hair drier": [
+        "The hand is steady and precise."
+    ],
+    "no_interaction hair drier": [
+        "The mouth is closed.",
+        "The eyes are blinking.",
+        "The hand is still."
+    ],
+    "carry handbag": [
+        "The hand is gripping the handbag."
+    ],
+    "hold handbag": [
+        "The arms are bent at the elbow.",
+        "The hand is gripping the handle or strap of the handbag firmly."
+    ],
+    "inspect handbag": [
+        "The arms are reaching and exploring.",
+        "The hand is open and searching."
+    ],
+    "no_interaction handbag": [
+        "The hand is holding a handbag."
+    ],
+    "carry hot dog": [
+        "The hand is burned and blistered."
+    ],
+    "cook hot dog": [
+        "The hand is potentially burned or scalded."
+    ],
+    "cut hot dog": [
+        "The arms are red and painful.",
+        "The hand is burned and blistered ."
+    ],
+    "eat hot dog": [
+        "The mouth is open and ready."
+    ],
+    "hold hot dog": [
+        "The hand is burning sensation."
+    ],
+    "make hot dog": [
+        "The mouth is opened wide in anticipation.",
+        "The arms are extended outward.",
+        "The hand is clenched tightly."
+    ],
+    "no_interaction hot dog": [
+        "The mouth is open and panting.",
+        "The hand is sweating and trembling."
+    ],
+    "carry keyboard": [
+        "The arms are extended or outstretched.",
+        "The hand is gripping or holding."
+    ],
+    "clean keyboard": [
+        "The hand is wet and soapy."
+    ],
+    "hold keyboard": [
+        "The hand is gripping the keyboard."
+    ],
+    "type_on keyboard": [
+        "The hand is active and engaged in pressing keys."
+    ],
+    "no_interaction keyboard": [
+        "The hand is resting on the keyboard."
+    ],
+    "assemble kite": [
+        "The hand is gripping tightly."
+    ],
+    "carry kite": [
+        "The arms are extended and raised.",
+        "The hand is gripping the kite string tightly."
+    ],
+    "fly kite": [
+        "The hand is gripping the kite string."
+    ],
+    "hold kite": [
+        "The arms are extended.",
+        "The hand is gripping the string tightly."
+    ],
+    "inspect kite": [
+        "The eyes are focused and observant.",
+        "The hand is reaching out and grasping."
+    ],
+    "launch kite": [
+        "The eyes are focused on the soaring kite in the sky.",
+        "The arms are extended and holding the kite handle firmly.",
+        "The hand is gripping the kite string tightly."
+    ],
+    "pull kite": [
+        "The arms are extended and outstretched.",
+        "The hand is gripping tightly."
+    ],
+    "no_interaction kite": [
+        "The hand is gripping the kite string."
+    ],
+    "cut_with knife": [
+        "The hand is severed with a knife."
+    ],
+    "hold knife": [
+        "The hand is gripping the knife tightly."
+    ],
+    "stick knife": [
+        "The hand is injured or wounded."
+    ],
+    "wash knife": [
+        "The hand is wet and soapy."
+    ],
+    "wield knife": [
+        "The hand is firm grip on the knife."
+    ],
+    "lick knife": [
+        "The mouth is open and ready."
+    ],
+    "no_interaction knife": [
+        "The hand is holding the knife."
+    ],
+    "hold laptop": [
+        "The hand is gripping the laptop."
+    ],
+    "open laptop": [
+        "The eyes are focused on the screen.",
+        "The arms are bent at the elbow.",
+        "The hand is resting on the keyboard.",
+        "The legs are crossed or comfortably positioned."
+    ],
+    "read laptop": [
+        "The eyes are focused and scanning the screen.",
+        "The hand is resting on the keyboard or mouse."
+    ],
+    "repair laptop": [
+        "The hand is engaged in fine motor movements."
+    ],
+    "type_on laptop": [
+        "The hand is flexed and in a gripping position."
+    ],
+    "no_interaction laptop": [
+        "The hand is resting on the laptop keyboard."
+    ],
+    "clean microwave": [
+        "The hand is wet and soapy."
+    ],
+    "open microwave": [
+        "The hand is warm and ready."
+    ],
+    "operate microwave": [
+        "The hand is holding the microwave door handle."
+    ],
+    "no_interaction microwave": [
+        "The hand is unaffected by microwave radiation."
+    ],
+    "control mouse": [
+        "The hand is gripping the mouse."
+    ],
+    "hold mouse": [
+        "The hand is gripping the mouse."
+    ],
+    "repair mouse": [
+        "The hand is holding the mouse tightly."
+    ],
+    "no_interaction mouse": [
+        "The hand is resting on the desk."
+    ],
+    "buy orange": [
+        "The mouth is opened wide in anticipation of tasting the orange's tangy sweetness.",
+        "The hand is eagerly reaching out."
+    ],
+    "cut orange": [
+        "The hand is holding the orange with anticipation."
+    ],
+    "eat orange": [
+        "The mouth is opened wide.",
+        "The hand is holding and peeling the orange."
+    ],
+    "hold orange": [
+        "The hand is gripping the orange."
+    ],
+    "inspect orange": [
+        "The mouth is opened wide in anticipation. .",
+        "The eyes are focused and attentive. .",
+        "The hand is reaching out."
+    ],
+    "peel orange": [
+        "The hand is holding the orange."
+    ],
+    "pick orange": [
+        "The hand is gripping the orange."
+    ],
+    "squeeze orange": [
+        "The hand is gripping firmly."
+    ],
+    "wash orange": [
+        "The mouth is closed.",
+        "The hand is wet and sticky."
+    ],
+    "no_interaction orange": [
+        "The mouth is opened and ready.",
+        "The hand is gripping the orange firmly."
+    ],
+    "clean oven": [
+        "The hand is wet and soapy."
+    ],
+    "hold oven": [
+        "The arms are supporting the weight of the oven.",
+        "The hand is gripping the oven tightly."
+    ],
+    "inspect oven": [
+        "The arms are extended.",
+        "The hand is reaching out cautiously."
+    ],
+    "open oven": [
+        "The hand is warm and exposed."
+    ],
+    "repair oven": [
+        "The hand is engaged in repair work."
+    ],
+    "operate oven": [
+        "The hand is exposed."
+    ],
+    "no_interaction oven": [
+        "The hand is unaffected by oven."
+    ],
+    "check parking meter": [
+        "The eyes are alert and scanning surroundings.",
+        "The hand is gripping the steering wheel tightly."
+    ],
+    "pay parking meter": [
+        "The hand is holding the parking ticket."
+    ],
+    "repair parking meter": [
+        "The arms are extending out.",
+        "The hand is gripping the steering wheel."
+    ],
+    "no_interaction parking meter": [
+        "The hand is resting on the steering wheel."
+    ],
+    "buy pizza": [
+        "The mouth is salivating with anticipation. .",
+        "The hand is eagerly reaching."
+    ],
+    "carry pizza": [
+        "The arms are holding the weight of the pizza.",
+        "The hand is gripping the pizza."
+    ],
+    "cook pizza": [
+        "The hand is covered in flour and dough residue."
+    ],
+    "cut pizza": [
+        "The hand is actively holding and maneuvering the pizza cutter."
+    ],
+    "eat pizza": [
+        "The mouth is open and salivating.",
+        "The hand is holding and gripping the slice."
+    ],
+    "hold pizza": [
+        "The hand is gripping the pizza."
+    ],
+    "make pizza": [
+        "The hand is covered in flour."
+    ],
+    "pick_up pizza": [
+        "The hand is gripping the pizza."
+    ],
+    "slide pizza": [
+        "The arms are extended and reaching out.",
+        "The hand is gripping the pizza slice tightly."
+    ],
+    "smell pizza": [],
+    "no_interaction pizza": [
+        "The mouth is open and ready.",
+        "The hand is reaching out."
+    ],
+    "clean refrigerator": [
+        "The hand is wet and soapy."
+    ],
+    "hold refrigerator": [
+        "The arms are stretched and extended.",
+        "The hand is gripping tightly.",
+        "The legs are stable and supporting."
+    ],
+    "move refrigerator": [
+        "The arms are strained and exerted.",
+        "The hand is gripping firmly around the refrigerator's edges.",
+        "The legs are bearing the brunt of the weight."
+    ],
+    "open refrigerator": [
+        "The mouth is salivating with anticipation.",
+        "The arms are reaching out.",
+        "The hand is grasping the refrigerator handle."
+    ],
+    "no_interaction refrigerator": [
+        "The hand is extended towards the refrigerator."
+    ],
+    "hold remote": [
+        "The hand is gripping the remote tightly."
+    ],
+    "point remote": [
+        "The hand is extended and pointing."
+    ],
+    "swing remote": [
+        "The arms are swinging back and forth in a controlled motion.",
+        "The hand is gripping the remote tightly."
+    ],
+    "no_interaction remote": [
+        "The hand is relaxed and at rest."
+    ],
+    "carry sandwich": [
+        "The hand is gripping the sandwich."
+    ],
+    "cook sandwich": [
+        "The mouth is open and salivating.",
+        "The arms are extended and reaching.",
+        "The hand is gripping and assembling the sandwich."
+    ],
+    "cut sandwich": [
+        "The hand is gripping the sandwich tightly."
+    ],
+    "eat sandwich": [
+        "The mouth is opening wide.",
+        "The hand is holding the sandwich firmly."
+    ],
+    "hold sandwich": [
+        "The arms are bent at the elbow.",
+        "The hand is gripping the sandwich tightly."
+    ],
+    "make sandwich": [
+        "The mouth is open and ready.",
+        "The arms are extended.",
+        "The hand is gripping the bread and assembling the sandwich."
+    ],
+    "no_interaction sandwich": [
+        "The mouth is opened wide.",
+        "The arms are extended towards the sandwich.",
+        "The hand is gripping the sandwich firmly."
+    ],
+    "cut_with scissors": [
+        "The hand is severed or amputated."
+    ],
+    "hold scissors": [
+        "The hand is grasping the scissors."
+    ],
+    "open scissors": [
+        "The hand is extended and gripping the handle of the scissors."
+    ],
+    "no_interaction scissors": [
+        "The hand is gripping tightly around the handle of the scissors."
+    ],
+    "clean sink": [
+        "The hand is wet and soapy."
+    ],
+    "repair sink": [
+        "The arms are reaching and stretching.",
+        "The hand is wet and soapy.",
+        "The legs are standing or crouching."
+    ],
+    "wash sink": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction sink": [
+        "The mouth is closed and silent.",
+        "The arms are not in contact with the sink."
+    ],
+    "carry skateboard": [
+        "The arms are extended.",
+        "The hand is gripping the skateboard tightly.",
+        "The legs are pushing off the ground."
+    ],
+    "flip skateboard": [
+        "The arms are extended outwards.",
+        "The hand is gripping the skateboard tightly.",
+        "The legs are bent at the knee."
+    ],
+    "grind skateboard": [
+        "The arms are balancing and stabilizing the body.",
+        "The hand is gripping tightly onto the skateboard's handle.",
+        "The legs are pushing off the ground with force."
+    ],
+    "hold skateboard": [
+        "The hand is gripping the skateboard tightly.",
+        "The legs are balancing and positioning the skateboard."
+    ],
+    "jump skateboard": [
+        "The legs are flexed and engaged."
+    ],
+    "pick_up skateboard": [
+        "The arms are extended and supporting the weight of the skateboard.",
+        "The hand is gripping the skateboard tightly.",
+        "The legs are bent at the knee."
+    ],
+    "ride skateboard": [
+        "The arms are extended.",
+        "The hand is gripping the skateboard tightly.",
+        "The legs are bent and balanced on the skateboard."
+    ],
+    "sit_on skateboard": [
+        "The arms are positioned.",
+        "The hand is either resting on the skateboard or actively holding the skateboard's edges.",
+        "The legs are bent and positioned."
+    ],
+    "stand_on skateboard": [
+        "The legs are engaged and balanced."
+    ],
+    "no_interaction skateboard": [
+        "The hand is gripping the skateboard.",
+        "The legs are stretched out."
+    ],
+    "adjust skis": [
+        "The arms are extended and reaching forward.",
+        "The hand is firmly gripping the ski poles.",
+        "The legs are bent at the knees."
+    ],
+    "carry skis": [
+        "The arms are extended and holding onto the ski poles.",
+        "The hand is gripping the ski pole handle tightly.",
+        "The legs are bent at the knee and providing balance and support."
+    ],
+    "hold skis": [
+        "The arms are extended and holding onto the ski poles.",
+        "The hand is gripping the ski pole firmly.",
+        "The legs are bent at the knee and balanced on the ski."
+    ],
+    "inspect skis": [
+        "The eyes are dilated and focused.",
+        "The hand is firmly gripping."
+    ],
+    "jump skis": [
+        "The legs are extended and propelling upward."
+    ],
+    "pick_up skis": [
+        "The arms are extended and reaching out.",
+        "The hand is grasping the ski poles or gripping the skis.",
+        "The legs are bent at the knees and supporting the weight of the skis."
+    ],
+    "repair skis": [
+        "The hand is steady and skillful."
+    ],
+    "ride skis": [
+        "The legs are engaged and balanced."
+    ],
+    "stand_on skis": [
+        "The legs are bent and stabilized."
+    ],
+    "wear skis": [
+        "The hand is gripping the ski pole firmly.",
+        "The legs are extended and positioned in a parallel stance."
+    ],
+    "no_interaction skis": [
+        "The arms are relaxed and hanging by the side.",
+        "The hand is gripping the ski pole firmly.",
+        "The legs are bent at the knee and balancing on the ski."
+    ],
+    "adjust snowboard": [
+        "The arms are flexing and extending.",
+        "The hand is gripping the snowboard binding.",
+        "The legs are balancing and shifting weight on the snowboard."
+    ],
+    "carry snowboard": [
+        "The arms are holding the snowboard steadily.",
+        "The hand is gripping the snowboard's edge securely.",
+        "The legs are balancing and supporting the weight of the snowboard."
+    ],
+    "grind snowboard": [
+        "The arms are flexed and engaged in controlling the snowboard's movements.",
+        "The hand is gripping firmly on the snowboard's edges. ."
+    ],
+    "hold snowboard": [
+        "The arms are gripping the snowboard firmly.",
+        "The hand is clasping the snowboard's edge.",
+        "The legs are pressing against the snowboard."
+    ],
+    "jump snowboard": [
+        "The legs are extended and flexed."
+    ],
+    "ride snowboard": [
+        "The legs are engaged and balanced."
+    ],
+    "stand_on snowboard": [
+        "The hand is gripping the snowboard or holding onto the snowboard bindings.",
+        "The legs are bent and flexed."
+    ],
+    "wear snowboard": [
+        "The legs are bent and balanced."
+    ],
+    "no_interaction snowboard": [
+        "The arms are firmly gripping the snowboard.",
+        "The hand is steadily holding the snowboard's edge.",
+        "The legs are balancing weight and applying pressure on the snowboard."
+    ],
+    "hold spoon": [
+        "The hand is gripping the spoon."
+    ],
+    "lick spoon": [
+        "The mouth is engaged in tasting and saliva production."
+    ],
+    "wash spoon": [
+        "The hand is wet and soapy."
+    ],
+    "sip spoon": [
+        "The mouth is open and ready.",
+        "The hand is holding the spoon steadily."
+    ],
+    "no_interaction spoon": [
+        "The hand is open and ready."
+    ],
+    "block sports ball": [
+        "The arms are extended and ready.",
+        "The hand is firmly positioned with fingers spread wide.",
+        "The legs are bent and poised."
+    ],
+    "carry sports ball": [
+        "The arms are flexed and engaged.",
+        "The hand is gripping firmly around the handle or surface of the sports equipment.",
+        "The legs are stabilizing and bearing the weight of the body."
+    ],
+    "catch sports ball": [
+        "The arms are swiftly extending.",
+        "The hand is grasping the sports object firmly."
+    ],
+    "dribble sports ball": [
+        "The mouth is open and ready.",
+        "The arms are bent and positioned.",
+        "The hand is gripping the ball firmly.",
+        "The legs are balanced and poised."
+    ],
+    "hit sports ball": [
+        "The arms are bruised and swollen from impact.",
+        "The hand is throbbing with pain.",
+        "The legs are sore and tender."
+    ],
+    "hold sports ball": [
+        "The arms are flexed and engaged.",
+        "The hand is gripping tightly.",
+        "The legs are stable and supporting."
+    ],
+    "inspect sports ball": [
+        "The eyes are alert and focused.",
+        "The arms are tense and ready, poised.",
+        "The hand is gripped and prepared.",
+        "The legs are nimble and agile."
+    ],
+    "kick sports ball": [
+        "The legs are extended and propulsive."
+    ],
+    "pick_up sports ball": [
+        "The hand is gripping the sports ball tightly."
+    ],
+    "serve sports ball": [
+        "The arms are extended and ready.",
+        "The hand is gripped firmly and poised.",
+        "The legs are flexed and prepared."
+    ],
+    "sign sports ball": [
+        "The arms are flexed and extended.",
+        "The hand is firmly gripping.",
+        "The legs are swiftly moving."
+    ],
+    "spin sports ball": [
+        "The arms are extended and rotating rapidly.",
+        "The hand is grasping the handle tightly and following the motion.",
+        "The legs are pushing off the ground forcefully and propelling the body forward."
+    ],
+    "throw sports ball": [
+        "The arms are extended and propelling the sports equipment.",
+        "The hand is gripping the sports equipment firmly.",
+        "The legs are planting and providing a stable base."
+    ],
+    "no_interaction sports ball": [
+        "The arms are raised in preparation.",
+        "The hand is gripped tightly around an object.",
+        "The legs are bent."
+    ],
+    "hold stop sign": [
+        "The hand is gripping the stop tightly."
+    ],
+    "stand_under stop sign": [
+        "The legs are supporting weight."
+    ],
+    "stop_at stop sign": [
+        "The mouth is closed.",
+        "The hand is still.",
+        "The legs are grounded."
+    ],
+    "no_interaction stop sign": [
+        "The mouth is closed and unresponsive.",
+        "The hand is still and motionless."
+    ],
+    "carry suitcase": [
+        "The arms are extended and stretched.",
+        "The hand is gripping firmly.",
+        "The legs are balancing and supporting."
+    ],
+    "drag suitcase": [
+        "The arms are extended and holding onto the suitcase handle.",
+        "The hand is gripping firmly onto the suitcase handle.",
+        "The legs are stepping forward."
+    ],
+    "hold suitcase": [
+        "The arms are bent at the elbow.",
+        "The hand is firmly gripping the handle of the suitcase.",
+        "The legs are slightly shifted."
+    ],
+    "hug suitcase": [
+        "The arms are bent and wrapped around the suitcase.",
+        "The hand is clasping the handle of the suitcase tightly."
+    ],
+    "load suitcase": [
+        "The arms are strained and extended.",
+        "The hand is tightly clenched around the suitcase handle.",
+        "The legs are bearing the weight of the suitcase."
+    ],
+    "open suitcase": [
+        "The hand is outstretched and ready."
+    ],
+    "pack suitcase": [
+        "The arms are reaching and stretching.",
+        "The hand is gripping onto items and folding clothes neatly.",
+        "The legs are supporting the body's weight."
+    ],
+    "pick_up suitcase": [
+        "The arms are extended and supporting the weight of the suitcase.",
+        "The hand is gripping the suitcase firmly."
+    ],
+    "zip suitcase": [
+        "The hand is gripping the zipper tightly."
+    ],
+    "no_interaction suitcase": [
+        "The arms are hanging by the side.",
+        "The hand is gripping the handle."
+    ],
+    "carry surfboard": [
+        "The arms are extended and gripping the surfboard firmly.",
+        "The hand is clasping and stabilizing the surfboard handle.",
+        "The legs are balancing and providing support on the surfboard."
+    ],
+    "drag surfboard": [
+        "The arms are extended and gripping the surfboard.",
+        "The hand is firmly grasping the surfboard's edge.",
+        "The legs are balancing and propelling the surfboard forward."
+    ],
+    "hold surfboard": [
+        "The arms are extended and gripping the surfboard.",
+        "The hand is firmly grasping the edges of the surfboard.",
+        "The legs are balancing and supporting the weight of the body on the surfboard."
+    ],
+    "inspect surfboard": [
+        "The eyes are focused and observing.",
+        "The hand is touching and examining."
+    ],
+    "jump surfboard": [
+        "The legs are extended and engaged."
+    ],
+    "lie_on surfboard": [
+        "The arms are extended outward.",
+        "The hand is gripping the edges of the surfboard.",
+        "The legs are bent at the knee."
+    ],
+    "load surfboard": [
+        "The arms are extended and holding onto the surfboard.",
+        "The hand is gripping the edges of the surfboard.",
+        "The legs are balancing on the surfboard."
+    ],
+    "ride surfboard": [
+        "The hand is gripping.",
+        "The legs are bent."
+    ],
+    "stand_on surfboard": [
+        "The legs are bent and balanced."
+    ],
+    "sit_on surfboard": [
+        "The legs are bent and balanced."
+    ],
+    "wash surfboard": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction surfboard": [
+        "The arms are relaxed and extended.",
+        "The hand is firmly gripping the surfboard.",
+        "The legs are bent and positioned."
+    ],
+    "carry teddy bear": [
+        "The arms are holding the teddy tightly.",
+        "The hand is grasping the teddy's soft fur.",
+        "The legs are steadily supporting the weight of the person and the teddy."
+    ],
+    "hold teddy bear": [
+        "The hand is grasping the teddy gently."
+    ],
+    "hug teddy bear": [
+        "The arms are extended and wrapped around the teddy.",
+        "The hand is gripping and embracing the teddy tightly."
+    ],
+    "kiss teddy bear": [
+        "The mouth is pressed against the teddy's plush fabric."
+    ],
+    "no_interaction teddy bear": [
+        "The hand is gripping the teddy."
+    ],
+    "carry tennis racket": [
+        "The arms are extended and engaged in holding the tennis racket.",
+        "The hand is gripping the tennis racket firmly."
+    ],
+    "hold tennis racket": [
+        "The hand is grasping the tennis ball."
+    ],
+    "inspect tennis racket": [
+        "The eyes are focused and observant.",
+        "The hand is grasping and examining."
+    ],
+    "swing tennis racket": [
+        "The arms are extended and in motion.",
+        "The hand is gripping firmly on the tennis racket."
+    ],
+    "no_interaction tennis racket": [
+        "The arms are extended and moving fluidly.",
+        "The hand is firmly gripping the racket.",
+        "The legs are balanced and dynamically shifting weight."
+    ],
+    "adjust tie": [
+        "The hand is steady and precise."
+    ],
+    "cut tie": [
+        "The hand is released from constraint."
+    ],
+    "hold tie": [
+        "The hand is gripping the tie."
+    ],
+    "inspect tie": [
+        "The eyes are focused and observing the details of the tie.",
+        "The hand is holding and feeling the fabric of the tie."
+    ],
+    "pull tie": [
+        "The hand is gripping the tie tightly."
+    ],
+    "tie tie": [
+        "The hand is steady and dexterous."
+    ],
+    "wear tie": [],
+    "no_interaction tie": [
+        "The mouth is closed tightly.",
+        "The arms are hanging freely.",
+        "The hand is resting at the person's side."
+    ],
+    "hold toaster": [
+        "The hand is gripping the toaster tightly."
+    ],
+    "operate toaster": [
+        "The arms are extending towards the toaster.",
+        "The hand is reaching out and gripping the toaster."
+    ],
+    "repair toaster": [
+        "The hand is gripping the screwdriver."
+    ],
+    "no_interaction toaster": [
+        "The mouth is closed and unaffected by the toaster.",
+        "The hand is holding the toaster without touching any buttons or elements."
+    ],
+    "clean toilet": [
+        "The hand is wet and soapy."
+    ],
+    "flush toilet": [
+        "The hand is typically clean and dry."
+    ],
+    "open toilet": [
+        "The hand is relaxed and ready."
+    ],
+    "repair toilet": [
+        "The hand is wet and soapy from handling water and cleaning products."
+    ],
+    "sit_on toilet": [
+        "The legs are bent at the knee."
+    ],
+    "stand_on toilet": [
+        "The legs are extended and supporting weight."
+    ],
+    "wash toilet": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction toilet": [
+        "The mouth is closed and inactive.",
+        "The hand is uninvolved and clean."
+    ],
+    "brush_with toothbrush": [
+        "The mouth is clean and refreshed.",
+        "The hand is gripping the toothbrush."
+    ],
+    "hold toothbrush": [
+        "The mouth is open and ready.",
+        "The hand is gripping the toothbrush firmly."
+    ],
+    "wash toothbrush": [
+        "The mouth is wet and foamy.",
+        "The hand is wet and soapy."
+    ],
+    "no_interaction toothbrush": [
+        "The mouth is toothbrush-less.",
+        "The hand is toothbrush-free."
+    ],
+    "install traffic light": [
+        "The hand is gripping the steering wheel."
+    ],
+    "repair traffic light": [
+        "The arms are extended and reaching out.",
+        "The hand is gesturing with open palm or fingers to indicate traffic movement or."
+    ],
+    "stand_under traffic light": [
+        "The legs are weight-bearing and supporting the body's weight."
+    ],
+    "stop_at traffic light": [
+        "The eyes are scanning the surroundings.",
+        "The arms are resting on the car door or armrest.",
+        "The hand is gripping the steering wheel tightly."
+    ],
+    "no_interaction traffic light": [
+        "The mouth is closed in silence.",
+        "The eyes are observant and scanning surroundings.",
+        "The hand is firmly gripping the steering wheel.",
+        "The legs are steadily pressing the brake pedal."
+    ],
+    "direct truck": [
+        "The arms are extended and engaged in steering movements.",
+        "The hand is gripping the steering wheel firmly."
+    ],
+    "drive truck": [
+        "The arms are extended and holding the gear shift.",
+        "The hand is gripping the steering wheel.",
+        "The legs are pressing the accelerator or brake pedal."
+    ],
+    "inspect truck": [
+        "The eyes are focused and observing.",
+        "The arms are extended and reaching.",
+        "The hand is touching and examining."
+    ],
+    "load truck": [
+        "The arms are strained and flexed.",
+        "The hand is gripping tightly onto the truck's cargo.",
+        "The legs are bearing the weight of the person and the truck."
+    ],
+    "repair truck": [
+        "The arms are straining with effort.",
+        "The hand is gripping tightly onto the wrench."
+    ],
+    "ride truck": [
+        "The arms are firmly gripping the steering wheel.",
+        "The hand is steadily shifting gears.",
+        "The legs are pressing on the accelerator or brake pedal."
+    ],
+    "sit_on truck": [
+        "The legs are bent at the knee and resting on the truck floor."
+    ],
+    "wash truck": [
+        "The hand is wet and soapy."
+    ],
+    "no_interaction truck": [
+        "The arms are dislocated and fractured.",
+        "The hand is crushed and mangled."
+    ],
+    "carry umbrella": [
+        "The hand is gripping the umbrella handle."
+    ],
+    "hold umbrella": [
+        "The hand is gripping the umbrella handle."
+    ],
+    "lose umbrella": [
+        "The hand is empty and exposed."
+    ],
+    "open umbrella": [
+        "The hand is holding the umbrella handle."
+    ],
+    "repair umbrella": [
+        "The hand is gripping and manipulating the umbrella fabric."
+    ],
+    "set umbrella": [
+        "The hand is holding the umbrella."
+    ],
+    "stand_under umbrella": [
+        "The legs are covered by umbrella."
+    ],
+    "no_interaction umbrella": [
+        "The hand is gripping the handle of the umbrella."
+    ],
+    "hold vase": [
+        "The hand is gripping the vase."
+    ],
+    "make vase": [
+        "The hand is flexed and gripping tightly."
+    ],
+    "paint vase": [
+        "The arms are moving with precision and control.",
+        "The hand is holding the paintbrush."
+    ],
+    "no_interaction vase": [
+        "The hand is holding the vase."
+    ],
+    "fill wine glass": [
+        "The hand is holding a glass of wine."
+    ],
+    "hold wine glass": [
+        "The arms are steadily supporting the weight of the wine glass.",
+        "The hand is gripping the wine glass delicately."
+    ],
+    "sip wine glass": [
+        "The mouth is wet and tingling.",
+        "The hand is holding the glass."
+    ],
+    "toast wine glass": [
+        "The mouth is savory anticipation.",
+        "The hand is steady grip."
+    ],
+    "lick wine glass": [
+        "The mouth is wet and salivating."
+    ],
+    "wash wine glass": [
+        "The hand is wet and lathered with soap."
+    ],
+    "no_interaction wine glass": [
+        "The mouth is closed and taste buds eagerly awaiting a sip.",
+        "The hand is steady and poised."
+    ],
+    "feed zebra": [
+        "The mouth is open wide.",
+        "The hand is reaching out."
+    ],
+    "hold zebra": [
+        "The arms are supporting the weight of the zebra.",
+        "The hand is gripping the zebra firmly."
+    ],
+    "pet zebra": [
+        "The hand is touching the zebra."
+    ],
+    "watch zebra": [
+        "The eyes are dilated and focused."
+    ],
+    "no_interaction zebra": [
+        "The mouth is closed in anticipation.",
+        "The eyes are wide open with curiosity.",
+        "The hand is remains still."
+    ]
+}
