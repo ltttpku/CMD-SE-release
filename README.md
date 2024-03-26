@@ -151,3 +151,7 @@ Please consider citing our paper if it helps your research.
  organization={IEEE}
 }
 ```
+
+## Acknowledgement
+We thank [THID](https://github.com/scwangdyd/promting_hoi) for open-sourcing their code.
+We would also like to thank the anonymous reviewers for their constructive feedback.
