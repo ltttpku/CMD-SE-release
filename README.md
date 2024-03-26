@@ -70,7 +70,7 @@ Run this command to train the model in HICO-DET dataset
 python -m torch.distributed.launch --nproc_per_node=2 --master_port 3990 --use_env main.py \
     --batch_size 64 \
     --output_dir [path to save checkpoint] \
-    --epochs 100 \
+    --epochs 80 \
     --lr 1e-4 --min-lr 1e-7 \
     --hoi_token_length 25 \
     --enable_dec \
@@ -84,7 +84,7 @@ Run this command to train the model in SWIG-HOI dataset
 python -m torch.distributed.launch --nproc_per_node=2 --master_port 4990 --use_env main.py \
     --batch_size 64 \
     --output_dir [path to save checkpoint] \
-    --epochs 80 \
+    --epochs 70 \
     --lr 1e-4 --min-lr 1e-7 \
     --hoi_token_length 10 \
     --enable_dec \
@@ -101,7 +101,7 @@ Run this command to evaluate the model on HICO-DET dataset
 python -m torch.distributed.launch --nproc_per_node=2 --master_port 3990 --use_env main.py \
     --batch_size 64 \
     --output_dir [path to save checkpoint] \
-    --epochs 100 \
+    --epochs 80 \
     --lr 1e-4 --min-lr 1e-7 \
     --hoi_token_length 25 \
     --enable_dec \
@@ -116,7 +116,7 @@ Run this command to evaluate the model on SWIG-HOI dataset
 python -m torch.distributed.launch --nproc_per_node=1 --master_port 4990 --use_env main.py \
     --batch_size 64 \
     --output_dir [path to save results] \
-    --epochs 80 \
+    --epochs 70 \
     --lr 1e-4 --min-lr 1e-7 \
     --hoi_token_length 10 \
     --enable_dec \
@@ -128,14 +128,14 @@ python -m torch.distributed.launch --nproc_per_node=1 --master_port 4990 --use_e
 
 ## Models
 
-| dataset | HOI Tokens | AP seen | AP unseen | Checkpoint |
-| :-----: | :-----: | :-----: | :-----: | :-----: |
-| HICO-DET | 10 | 23.72 | 16.45 | [params]()|
+| dataset | HOI Tokens | Unseen | Seen | Full | Checkpoint |
+| :-----: | :-----: | :-----: | :-----: | -----: | :-----: |
+| HICO-DET | 25 | 16.70 | 23.95 | 22.35 | [params](https://disk.pku.edu.cn/link/AACBAE087FC3C7479EBD955966748D6F3F)|
 
 
-| dataset | HOI Tokens | AP non-rare | AP rare | AP unseen |  Checkpoint |
-| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| SWIG-HOI | 10 | 18.30 | 13.99 | 11.14 | [params]()|
+| dataset | HOI Tokens | Non-rare | Rare | Unseen | Full |  Checkpoint |
+| :-----: | :-----: | :-----: | :-----: |:-----: | :-----: | :-----: |
+| SWIG-HOI | 10 | 21.46 | 14.64 | 10.70 | 15.26 | [params](https://disk.pku.edu.cn/link/AA32F27FDBAF1D4DAF90FD1D3F01E5B881)|
 
 
 ## Citing
