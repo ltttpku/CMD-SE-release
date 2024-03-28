@@ -98,7 +98,7 @@ python -m torch.distributed.launch --nproc_per_node=2 --master_port 4990 --use_e
 Run this command to evaluate the model on HICO-DET dataset
 
 ``` bash
-python -m torch.distributed.launch --nproc_per_node=2 --master_port 3990 --use_env main.py \
+python -m torch.distributed.launch --nproc_per_node=1 --master_port 3990 --use_env main.py \
     --batch_size 64 \
     --output_dir [path to save checkpoint] \
     --epochs 80 \
