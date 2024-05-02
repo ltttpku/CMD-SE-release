@@ -3,7 +3,7 @@
 
 This repository contains the official PyTorch implementation for the paper: 
 
-> Ting Lei, Shaofeng Yin, Yang Liu; Towards Open-Vocabulary HOI Detection via Conditional Multi-level Decoding and Fine-grained Semantic Enhancement; In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024  
+> Ting Lei, Shaofeng Yin, Yang Liu; Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection; In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024  
 
 
 ## Overview
