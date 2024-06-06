@@ -144,7 +144,7 @@ Please consider citing our paper if it helps your research.
 
 ```
 @inproceedings{CMD-SE_2024_CVPR,
- title={Towards Open-Vocabulary HOI Detection via Conditional Multi-level Decoding and Fine-grained Semantic Enhancement},
+ title={Exploring the Potential of Large Foundation Models for Open-Vocabulary HOI Detection},
  author={Ting Lei, Shaofeng Yin, and Yang Liu},
  year={2024},
  booktitle={CVPR},
